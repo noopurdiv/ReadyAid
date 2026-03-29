@@ -5,6 +5,12 @@ It combines an Android app (Jetpack Compose) with a Python RAG backend (FastAPI 
 
 ---
 
+## Demo Video
+
+- [Watch project demo on YouTube](https://www.youtube.com/watch?v=-CyM3Qt5mYI)
+
+---
+
 ## Project Overview
 
 ReadyAid helps users in urgent situations with:
